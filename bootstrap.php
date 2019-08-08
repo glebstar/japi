@@ -10,8 +10,8 @@ $capsule->addConnection([
     "driver" => "mysql",
     "host" =>"mysql",
     "database" => "test_task",
-    "username" => "root",
-    "password" => "root"
+    "username" => "*",
+    "password" => "*"
 
 ]);
 
